@@ -1,8 +1,8 @@
-## Time Tracking App
+# Time Tracking App
 
-# In this time-tracking app, a user can add, delete, and modify various timers. Each timer corresponds to a different task that the user would like to keep time for.
+## In this time-tracking app, a user can add, delete, and modify various timers. Each timer corresponds to a different task that the user would like to keep time for.
 
-# Insert gif here
+Insert gif here
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
